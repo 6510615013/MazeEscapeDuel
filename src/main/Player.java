@@ -1,5 +1,5 @@
 package main;
-import java.awt.*;
+import java.awt.Color;
 
 public class Player {
     public int x, y;
