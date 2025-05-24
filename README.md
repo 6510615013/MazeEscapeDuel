@@ -16,8 +16,7 @@ MazeEscapeDuel/
 │   │   ├── NetworkHandler.java    // จัดการ socket + thread
 │   │   └── GameManager.java       // ควบคุมสถานะเกม / เช็คชัยชนะ / รีสตาร์ต
 ├── README.md
-├── .gitignore
-└── MazeEscapeDuel.iml (หรือไฟล์ project config ของ IntelliJ/VSCode)
+└── .gitignore
 </pre>
 
 ### Feature
