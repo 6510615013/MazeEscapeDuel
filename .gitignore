@@ -1,0 +1,38 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# VS Code workspace settings
+.vscode/
+
+# Eclipse project files (บางคนเปิดใน Eclipse)
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# Build output
+bin/
+out/
+
+# Maven / Gradle
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# OS-specific
+.DS_Store
+Thumbs.db
